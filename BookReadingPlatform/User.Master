@@ -1,0 +1,143 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="User.Master.cs" Inherits="BookReadingPlatform.UserMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Book Reading Platform</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background-color: #f8fafc; display: flex; transition: background-color 0.3s, color 0.3s; }
+        
+        /* Sidebar Container */
+        .sidebar { width: 260px; height: 100vh; background-color: #ffffff; position: fixed; border-right: 1px solid #e2e8f0; display: flex; flex-direction: column; transition: background-color 0.3s, border-color 0.3s; }
+        .logo-container { padding: 30px 24px; display: flex; align-items: center; gap: 12px; }
+        .logo-icon { background: #5c6ac4; color: white; width: 40px; height: 40px; border-radius: 10px; display: flex; justify-content: center; align-items: center; }
+        .logo-icon svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+        .logo-text { display: flex; flex-direction: column; }
+        .logo-text strong { font-size: 16px; color: #1a202c; letter-spacing: -0.3px; }
+        .logo-text span { font-size: 12px; color: #a0aec0; }
+        
+        .nav-menu { display: flex; flex-direction: column; padding: 0 16px; gap: 4px; }
+        .nav-link { padding: 12px 16px; text-decoration: none; color: #718096; font-size: 14px; font-weight: 500; border-radius: 8px; display: flex; align-items: center; gap: 12px; transition: background-color 0.2s, color 0.2s; }
+        .nav-link:hover { background-color: #f8fafc; color: #4a5568; }
+        .nav-link.active { background-color: #eff6ff; color: #5c6ac4; font-weight: 600; }
+        .nav-icon { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; opacity: 0.8; }
+        .nav-link.active .nav-icon { opacity: 1; stroke-width: 2.5; }
+
+        .sidebar-bottom { margin-top: auto; padding: 24px; border-top: 1px solid transparent; }
+        .user-profile { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; }
+        .user-avatar { background: #2b6cb0; color: white; width: 36px; height: 36px; border-radius: 8px; display: flex; justify-content: center; align-items: center; font-size: 14px; font-weight: bold; }
+        .user-info { display: flex; flex-direction: column; }
+        .user-info strong { font-size: 13px; color: #1a202c; }
+        .user-info span { font-size: 11px; color: #a0aec0; }
+        
+        .btn-logout { background-color: #fef2f2; color: #e53e3e; text-decoration: none; padding: 12px; border-radius: 8px; display: flex; justify-content: center; align-items: center; gap: 8px; font-size: 13px; font-weight: 600; border: 1px solid #fee2e2; }
+        .btn-logout:hover { background-color: #fee2e2; }
+        .btn-logout svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+
+        .main-content { margin-left: 260px; padding: 35px 45px; width: calc(100% - 260px); box-sizing: border-box; }
+
+        /* =========================================
+           GLOBAL DARK MODE OVERRIDES
+           ========================================= */
+        body.dark-theme { background-color: #0f172a !important; color: #f1f5f9 !important; }
+        body.dark-theme .sidebar { background-color: #1e293b !important; border-color: #334155 !important; }
+        
+        /* Dark Theme Text Colors */
+        body.dark-theme h1, body.dark-theme h2, body.dark-theme h3, body.dark-theme h4, 
+        body.dark-theme strong, body.dark-theme .logo-text strong, body.dark-theme .user-info strong,
+        body.dark-theme .menu-text, body.dark-theme .setting-name, body.dark-theme .nav-link { 
+            color: #f1f5f9 !important; 
+        }
+        body.dark-theme p, body.dark-theme span, body.dark-theme .nav-link { color: #94a3b8 !important; }
+        body.dark-theme .nav-link:hover { background-color: #334155 !important; }
+        body.dark-theme .nav-link.active { background-color: #334155 !important; color: #818cf8 !important; }
+        
+        /* Dark Theme Cards & Containers (Applies to ALL pages) */
+        body.dark-theme .recent-card, body.dark-theme .trending-card, body.dark-theme .category-card,
+        body.dark-theme .fav-card, body.dark-theme .list-card, body.dark-theme .profile-header-card,
+        body.dark-theme .stat-card, body.dark-theme .menu-list-container, body.dark-theme .menu-item,
+        body.dark-theme .modal-content, body.dark-theme .search-container, body.dark-theme .large-search-bar,
+        body.dark-theme .settings-profile, body.dark-theme .section-box, body.dark-theme .history-card,
+        body.dark-theme .dl-card, body.dark-theme .lib-card, body.dark-theme .f-pill, 
+        body.dark-theme .circle-btn, body.dark-theme .download-search, body.dark-theme .sort-select {
+            background-color: #1e293b !important;
+            border-color: #334155 !important;
+        }
+        
+        body.dark-theme .menu-item:hover { background-color: #334155 !important; }
+        body.dark-theme input { color: #f1f5f9 !important; }
+        body.dark-theme .circle-btn { color: #cbd5e1 !important; }
+        body.dark-theme .menu-item.logout .menu-text { color: #fca5a5 !important; }
+        body.dark-theme .menu-item.logout .menu-icon-box { background: rgba(239, 68, 68, 0.2) !important; }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+
+<!-- APPLY THEME IMMEDIATELY TO PREVENT FLASHING -->
+<body id="appBody">
+    <script>
+        if (localStorage.getItem('theme') === 'dark') {
+            document.getElementById('appBody').classList.add('dark-theme');
+        }
+    </script>
+
+    <form id="form1" runat="server" style="display: flex; width: 100%;">
+        
+        <!-- SIDEBAR -->
+        <div class="sidebar">
+            <div class="logo-container">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 24 24"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+                </div>
+                <div class="logo-text">
+                    <strong>Book Reading</strong>
+                    <span>Your library</span>
+                </div>
+            </div>
+            
+            <div class="nav-menu">
+                <a href="Default.aspx" class="nav-link active">
+                    <svg class="nav-icon" viewBox="0 0 24 24"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg> 
+                    Home
+                </a>
+                <a href="Categories.aspx" class="nav-link">
+                    <svg class="nav-icon" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg> 
+                    Categories
+                </a>
+                <a href="Favorites.aspx" class="nav-link">
+                    <svg class="nav-icon" viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg> 
+                    Favorites
+                </a>
+                <a href="Search.aspx" class="nav-link">
+                    <svg class="nav-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg> 
+                    Search
+                </a>
+                <a href="Profile.aspx" class="nav-link">
+                    <svg class="nav-icon" viewBox="0 0 24 24"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg> 
+                    Profile
+                </a>
+            </div>
+            
+            <div class="sidebar-bottom">
+                <div class="user-profile">
+                    <div class="user-avatar">AS</div>
+                    <div class="user-info">
+                        <strong>Arjun Sharma</strong>
+                        <span>Premium Member</span>
+                    </div>
+                </div>
+                <a href="Login.aspx" class="btn-logout">
+                    <svg viewBox="0 0 24 24"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg> 
+                    Logout
+                </a>
+            </div>
+        </div>
+
+        <!-- MAIN CONTENT AREA -->
+        <div class="main-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+        
+    </form>
+</body>
+</html>

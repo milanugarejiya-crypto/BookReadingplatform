@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|c:\\users\\lenovo\\source\\repos\\bookreadingplatform\\bookreadingplatform\\adminbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\adminbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\adminsettings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\adminsettings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\adminsettings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\adminsettings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\adminreports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\adminreports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\adminreports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\adminreports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\admincategories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\admincategories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\admincategories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\admincategories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\adminusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\adminusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\adminbooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\adminbooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\adminusers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\adminusers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\settings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\settings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\mylibrary.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\mylibrary.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\mylibrary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\mylibrary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\settings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\settings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\downloads.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\downloads.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\downloads.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\downloads.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\history.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\history.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\history.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\history.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\search.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\search.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\favorites.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\favorites.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\bookreadingplatform\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EB7144-36DF-4B7A-9D04-6D0E8C2C2040}|BookReadingPlatform\\BookReadingPlatform.csproj|solutionrelative:bookreadingplatform\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminSettings.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminSettings.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminSettings.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminSettings.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\AdminSettings.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T04:43:47.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminSettings.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminSettings.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminSettings.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminSettings.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\AdminSettings.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T04:43:29.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminReports.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminReports.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminReports.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminReports.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\AdminReports.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T04:39:48.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminCategories.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminCategories.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminCategories.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminCategories.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\AdminCategories.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T04:36:51.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminCategories.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminCategories.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminCategories.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminCategories.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\AdminCategories.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T04:36:31.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminBooks.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminBooks.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminBooks.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminBooks.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\AdminBooks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T04:01:36.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Login.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Login.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Login.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-13T12:40:27.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\.gitignore",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\.gitignore",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\.gitignore",
+              "RelativeToolTip": "BookReadingPlatform\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-22T03:09:01.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Admin.Master",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Admin.Master",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Admin.Master",
+              "RelativeToolTip": "BookReadingPlatform\\Admin.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T03:51:06.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminReports.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminReports.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminReports.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminReports.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\AdminReports.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T04:40:13.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminUsers.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminUsers.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminUsers.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminUsers.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\AdminUsers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T03:56:56.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:54:31.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Admin.Master.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Admin.Master.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Admin.Master.cs",
+              "RelativeToolTip": "BookReadingPlatform\\Admin.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:52:54.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminBooks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminBooks.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminBooks.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminBooks.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\AdminBooks.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T04:02:59.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminDashboard.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminDashboard.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T03:54:00.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminUsers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminUsers.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\AdminUsers.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\AdminUsers.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\AdminUsers.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:57:32.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyLibrary.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\MyLibrary.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\MyLibrary.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\MyLibrary.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\MyLibrary.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T03:35:00.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Downloads.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Downloads.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Downloads.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Downloads.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\Downloads.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T03:26:09.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "History.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\History.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\History.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\History.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\History.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:18:42.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "History.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\History.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\History.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\History.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\History.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T03:18:27.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Settings.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Settings.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Settings.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Settings.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\Settings.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:10:43.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Settings.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Settings.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Settings.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Settings.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\Settings.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T03:10:01.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "profile.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\profile.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\profile.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\profile.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-13T13:23:09.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.Master",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\User.Master",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\User.Master",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\User.Master",
+              "RelativeToolTip": "BookReadingPlatform\\User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-13T05:12:10.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyLibrary.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\MyLibrary.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\MyLibrary.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\MyLibrary.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\MyLibrary.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:35:28.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Downloads.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Downloads.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Downloads.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Downloads.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\Downloads.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T03:27:34.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\profile.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\profile.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\profile.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\profile.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T13:27:17.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Favorites.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Favorites.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Favorites.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Favorites.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\Favorites.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-13T13:16:01.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Categories.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Categories.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Categories.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Categories.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\Categories.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-13T13:12:25.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Search.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Search.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Search.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Search.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\Search.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-13T13:19:32.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Default.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Default.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Default.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-13T13:01:23.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Register.aspx",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Register.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Register.aspx",
+              "RelativeToolTip": "BookReadingPlatform\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-13T12:45:43.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Default.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:49:52.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Login.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:42:34.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\Register.aspx.cs",
+              "RelativeToolTip": "BookReadingPlatform\\Register.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:46:09.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\User.Master.cs",
+              "RelativeDocumentMoniker": "BookReadingPlatform\\User.Master.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\BookReadingPlatform\\BookReadingPlatform\\User.Master.cs",
+              "RelativeToolTip": "BookReadingPlatform\\User.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T05:22:54.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
